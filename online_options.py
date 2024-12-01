@@ -1,16 +1,20 @@
 (
-"whitelist word 1",
-"whitelist word 2",
-"whitelist word 3",
-"whitelist word 4",
-"whitelist word 5",
-"whitelist word 6"
+"arifureta",
+"rekishi ni",
+"amagami-san",
+"yarinaoshi",
+"re zero kara",
+"dungeon ni",
+"kekkon",
+"dandadan",
+"ao no hako",
+"kimi wa"
 );
 
 "RSS Feed";
 
 "https://files.catbox.moe/s53x87.png";
 
-(("911650445179621888", (0, 2, -1)), ("911650445179621417", (2, 3, 1)));
+(("513635444555120642", (4, -3, -2)), ("722098815485870151", (-3, -2)));
 
-(("911650445179621417", (0, 2, -1)), ("911650445179621888", (2, 3, 1)))
+()
